@@ -1,5 +1,11 @@
 # 論文程式碼說明
 
+語言: python 由jupyter撰寫
+
+套件版本: tensorflow2 以上 建議安裝docker
+
+以下簡單說明每個檔案在做什麼事情:
+
 * **Meta-ACS_weight_save**
 
   這是裝各個transfer learning算法訓練好的預訓練模型，任務都是情感分類。以下對檔名比較複雜的進行說明： 
