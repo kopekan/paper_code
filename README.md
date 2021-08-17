@@ -19,8 +19,10 @@
 * **Model** 
   我有用前一屆學長留下來的一些程式資料，基本上是在這個資料夾中，以下列出我有使用的檔案 
 
-** **Optimization**
+  **Optimization**
+  
     BERT用tf2套件的optimizer只能自己設定，用函式庫給的會無法訓練BERT，所以需要一個多的optimization設定。 
 
-**  **Tokenization**
+  **Tokenization**
+  
     在BERT做斷詞時可以測試，跑模型基本上用不太到。 
