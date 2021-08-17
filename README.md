@@ -49,9 +49,9 @@
 
 * **BERT-pair.ipynb**
 
-用single model的方式跑ACE、ACSC兩個任務，因為論文有提到這兩個任務都是使用BERT-pair的方式當作輸入，所以這樣取名。這邊的模型跑法都是用single model的。 
+  用single model的方式跑ACE、ACSC兩個任務，因為論文有提到這兩個任務都是使用BERT-pair的方式當作輸入，所以這樣取名。這邊的模型跑法都是用single model的。 
 
-* **Adv_rep.ipynb **
+* **Adv_rep.ipynb**
 
   Adversarial Reptile的程式碼，但大部分還是在讀資料跟建立前置模型，真的adv. Reptile的演算法只有最後面的cell。而其他的transfer learning的程式就沒有留了(只有留他們跑出來的預訓練模型)，因為程式碼也都挺簡單的。 
 
@@ -59,7 +59,7 @@
 
   NER任務的模型。
 
-* **Senti-hood.ipynb **
+* **Senti-hood.ipynb**
 
   之前試跑sentihood資料集+產生bert-pair輸入寫的程式碼，沒有在論文中用到，僅供參考。 
 
