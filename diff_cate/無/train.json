@@ -1,0 +1,411 @@
+{"sentence": "7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子都是用開利冷氣冷氣也是開利博士發明的", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子都是用開利冷氣冷氣也是開利博士發明的", "target": "冰點", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子都是用開利冷氣冷氣也是開利博士發明的", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子都是用開利冷氣冷氣也是開利博士發明的", "target": "開利", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "幾乎都可以輕鬆買到這一牌，其他牌子不一定買的到.而我這次去燦坤是在去買lg冷氣，這也是我第二次買lg冷氣了第一次買是2007年花了9千多買的，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "真的使用無線吸塵器的時間越來越多我之前有車用吸塵器（插點菸器那種）但有了 dyson v10 後，我已經跟舊愛說掰掰了吸力！！！", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "實際上阿芳老師並沒有介紹莊頭北的烘碗機，只是我自己同理可證的認為既然她用了莊頭北的瓦斯爐、排油煙機，烘碗機應該也行吧！", "target": "莊頭北", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "不推日立除濕機不推日立除濕機＋1 雖然很耐用 但是比國際牌吵已請國際牌原廠看過 說是調到23度就好了…因為房間2.7坪太小，導致馬上冷後，", "target": "日立", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "不推日立除濕機不推日立除濕機＋1 雖然很耐用 但是比國際牌吵已請國際牌原廠看過 說是調到23度就好了…因為房間2.7坪太小，導致馬上冷後，", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "近日想安裝一台大金冷氣在小孩房間（一男一女都長大了該分房睡了）因為家中已安裝過2台大金使用近10年沒問題，所以還是偏向大金", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "近日想安裝一台大金冷氣在小孩房間（一男一女都長大了該分房睡了）因為家中已安裝過2台大金使用近10年沒問題，所以還是偏向大金", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "裝了四台冷氣兩台大金（兩間房間）、兩台lg（客、餐廳）選lg只是單純覺得大kw數來說算便宜、一樣變頻一級能效、跟大金一樣全機7年保固兩個品牌吹到現在也沒發現什麼太大的問題變頻冷氣或冰箱的主機板 非常貴", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "裝了四台冷氣兩台大金（兩間房間）、兩台lg（客、餐廳）選lg只是單純覺得大kw數來說算便宜、一樣變頻一級能效、跟大金一樣全機7年保固兩個品牌吹到現在也沒發現什麼太大的問題變頻冷氣或冰箱的主機板 非常貴", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "客廳冷氣的選擇目前也是傾向三菱電機不知道有沒有人可以來分享一下大金大關80svlt的心得和說說優缺點大金要裝大關系列，請參考今年uvlt系列", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "因為爬過文三洋洗衣機問題看起來相對比較少所以都找三洋的，", "target": "三洋", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "台灣首台直立變頻自動洗劑機種 bw－dx120ej不知您入手新機了嗎，詳細資訊有待台灣日立家電公告上市訊息我在等家電展一次比較洗衣機自動投入很重樣我也想要有溫水洗衣", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "問完一輪下來發現大家家裡的冷氣品牌還都不一樣～日立、大金、三菱、國際 每問到一個都報出了不同的品牌，購買的理由則從廣告打很大、親戚是經銷商、到網路上說很好用....都有。", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "問完一輪下來發現大家家裡的冷氣品牌還都不一樣～日立、大金、三菱、國際 每問到一個都報出了不同的品牌，購買的理由則從廣告打很大、親戚是經銷商、到網路上說很好用....都有。", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "問完一輪下來發現大家家裡的冷氣品牌還都不一樣～日立、大金、三菱、國際 每問到一個都報出了不同的品牌，購買的理由則從廣告打很大、親戚是經銷商、到網路上說很好用....都有。", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "問完一輪下來發現大家家裡的冷氣品牌還都不一樣～日立、大金、三菱、國際 每問到一個都報出了不同的品牌，購買的理由則從廣告打很大、親戚是經銷商、到網路上說很好用....都有。", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "之前洗冷氣的師傅也說我們當初的預算應該要選三菱電機，可是我們那時候已經裝了日立的，下一台會想試試看三菱電機的", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "（但我回家查了一下全國電子還有）請問近幾年買三洋洗衣機的大大們 ，可以補充有什麼災情嗎？", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "無單據但願付法律責任.提供日立冷氣維修經驗，給予想購買日立冷氣的網友參考.型號ram－139nb產地： 中華民國", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "和太太討論要將家裡服役10年的分離式冷氣做更換，心裡設定二個品牌「大金」和「日立」並在家附近的新店家樂福做選購，最後選擇了大金的品牌於是快樂使用了約莫3～4個月，冷氣的涼爽度都非常滿意，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "和太太討論要將家裡服役10年的分離式冷氣做更換，心裡設定二個品牌「大金」和「日立」並在家附近的新店家樂福做選購，最後選擇了大金的品牌於是快樂使用了約莫3～4個月，冷氣的涼爽度都非常滿意，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "10種吸頭（少雙旋濕拖，共11種）lg a9k濕拖無線吸塵器 心得結論感謝 mobile01 辦lg a9k 體驗會，奇怪的知識又增加了", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "濾材也可以進行水洗清潔（零耗材），proscenic浦桑尼克p9 gts手持多功能無線吸塵器搭配lg優質大容量鋰電池（過充/高溫保護），擁有傲視群雄的一般檔/四十分鐘超長續航力；", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "是lg讓我退的因為他們說這款已經停產了但是後來換的三星問題沒比較好冰箱整天像被子彈打到一樣", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "所以我於5/19日入手了一台日立rv－449冰箱，然後5/20日三星的wd10n64fr2w/tw 滾筒洗衣機，昨天第二次報修。。。", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "走進lg a9 k發表會場，首先映入眼簾的即是氣勢驚人的lg a9 k吸塵器與多達11種的各式吸頭之外，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我們遵守大金原廠的建議，冷氣都是開23度跟吹完冷氣要開送風半小時（防異味產生", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "原本已採用100～127v的國家，也都會有220～240v 雙電壓供應.我自己不是買日立而是買大同的洗衣機我這台也是洗12公斤＋烘乾8公斤但是如果你放超過8公斤拿去烘乾也不會怎麼樣", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "後來在我強烈跟店家反應才換國際日製冰箱，我有開箱紀錄可以參考看看日立還是買日製品質比較好而且孫芸芸早就不代言日立xd她代言的都是高端旗艦機種，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家洗衣機需要放置在屋內廚房，目前現有的洗衣機（惠爾浦）上方會放烤箱跟大同電鍋，脫水時產生震動噪音超大的。", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "今天惠而浦的技師來換好新面板目前正常運作中一年以前01上面還對美泰克洗衣機一片歌功頌德....現在潮水退去，實在讓人不勝唏噓.日本這方面真的無人能敵，", "target": "美泰克", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "▌使用體驗分享：dyson v11吸塵器 及 360 heurist智能吸塵機器人dyson v11智能吸塵器...⇩ 據了解dyson v11有3種型號，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家大金一台開24小時象印除濕機一台開8小時5.6月電費兩千，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家大金一台開24小時象印除濕機一台開8小時5.6月電費兩千，", "target": "象印", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家現在裝的是日立，國際跟三洋先裝日立 後來看國際的評價不錯，另一間房汰換舊冷氣就改國際試試分享一下自己測試的結果", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家現在裝的是日立，國際跟三洋先裝日立 後來看國際的評價不錯，另一間房汰換舊冷氣就改國際試試分享一下自己測試的結果", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家現在裝的是日立，國際跟三洋先裝日立 後來看國際的評價不錯，另一間房汰換舊冷氣就改國際試試分享一下自己測試的結果", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "當大家對dyson吸塵器覺得好用之後，dyson從dyson v8無線吸塵器開始，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "一開始看上的是下方有迷你洗衣機的lg洗衣機，或是有烘衣功能的洗衣機，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "求大家推薦1. lg dualcool wifi雙迴轉變頻空調2. 日立尊榮系列3. 大金橫綱系列lg是去家樂福時，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "求大家推薦1. lg dualcool wifi雙迴轉變頻空調2. 日立尊榮系列3. 大金橫綱系列lg是去家樂福時，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "求大家推薦1. lg dualcool wifi雙迴轉變頻空調2. 日立尊榮系列3. 大金橫綱系列lg是去家樂福時，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "端午節的粽子我沒一個禮拜就吃完了除此之外 家裡如果買了一台臥式冷凍櫃 家裡還一台日立冰箱我阿公那邊還有一台森寶冰箱 跟一台小冰箱", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "端午節的粽子我沒一個禮拜就吃完了除此之外 家裡如果買了一台臥式冷凍櫃 家裡還一台日立冰箱我阿公那邊還有一台森寶冰箱 跟一台小冰箱", "target": "森寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "屯到我自己受不了花錢消災好個官腔官調的回覆啊......三星呀 三星～號稱韓國家電品牌大廠，售後服務也不過就是這般粗糙奉勸諸位往後購買洗衣機 對於三星這個品牌 請三思", "target": "三星", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "（2） 一台1對2（客廳＋次臥） 一台1對一（主臥＋書房）目前考慮的冷氣選項（目前都先看大金 ＆ 日立），價格部份都是先看momo網站上的，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "（2） 一台1對2（客廳＋次臥） 一台1對一（主臥＋書房）目前考慮的冷氣選項（目前都先看大金 ＆ 日立），價格部份都是先看momo網站上的，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "影片製作：cody、ajax模特兒：巫苡萱日立除濕機（rd12） 得獎人： 王三錫越來越吸眼球有冷氣嗎", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "在網購買了和成排油煙機，是宅配先送機器，", "target": "和成", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "所以這台小名叫「藍寶」雖然在空氣清淨機中並不算太知名的品牌但其實osim本來就是做這類健康相關的產品也銷售很多年了只是大家有印象還是在按摩產品這台適合5－10坪空間使用，", "target": "osim", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "用過lg吸塵器 大同電鍋 聲寶冷氣 國際冰箱聲寶冷氣已經邁入7年了 跟我小孩一起長大的xd", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "用過lg吸塵器 大同電鍋 聲寶冷氣 國際冰箱聲寶冷氣已經邁入7年了 跟我小孩一起長大的xd", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "用過lg吸塵器 大同電鍋 聲寶冷氣 國際冰箱聲寶冷氣已經邁入7年了 跟我小孩一起長大的xd", "target": "聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "用過lg吸塵器 大同電鍋 聲寶冷氣 國際冰箱聲寶冷氣已經邁入7年了 跟我小孩一起長大的xd", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "兩者合在一起我好想需要維修的機會應該不大...看版上推薦三菱的版友也不少，請問有人可以分享使用三菱空調（重工和電機都可以）的心得嗎？", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "產品外包裝 正面印上 dyson pure cool 涼風智慧空氣清淨機的外型背面是 dyson創辦人：james dyson，闡述dyson精神，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "「★獨家贈dc扇★kolin 歌林」自助價r32一級變頻7－9坪冷暖型4.2kw分離式冷氣（kdv－362r06/ksa－362dvr06）「20，我記得momo分離式標準安裝大約才2千元，", "target": "kolin 歌林", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "師傅說他家都是裝富士通我耳根子軟就聽他建議裝了富士通高級系列的這台冷暖機很幸運的是這台確實讓我很滿意刻意不去大賣場或家電專賣店詢問冷氣", "target": "富士通", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "這台目前看到momo上架了還有送東芝風扇，期待你分享心得，這台實機質感比其他國產的同價位滾筒漂亮的說", "target": "東芝", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "令人不解感謝您的分享...最近剛好看到禾聯的洗衣機....好險沒買貼標的慘品！", "target": "禾聯", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "體感舒適科技會不會比較耗電？我家聲寶冷氣也不是開整天就大概開一個數值兩三個小時搭配聲寶電風扇就很舒適了", "target": "聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "所以移去給人口多、又超愛洗床單的阿母用沒錯～我是bosch愛用者，娘家跟自己家都是用bosch洗衣機，三台不同系列的，符合不同環境的需求，", "target": "bosch", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "日立家電並不是台灣日立空調，日立冰箱搞不好是泰國製的，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "也很信任的再次向他們採購冷氣這次要安裝客廳以及兩個房間，起先鎖定國際牌，主要原因是口碑好省電又安靜，另外也把格力列入考慮名單，", "target": "格力", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "阿娘喂，還好我冰箱最後選了日立的rv－449，因為我四月底才剛入手三星的wd10n64fr2w/tw 滾筒洗衣機，原本想再購入一台冰箱，也有考慮過三星，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "㊙第二關－－－利用dyson吸塵器的吸力讓乒乓球維持在咖啡色那塊板子上來回移動㊙第三關－－－一組派兩人完成來回大部分解及組裝（這最好派出使用過dyson吸塵器的達人）㊙可惜...我第四組，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "三菱電機他們的售後服務和客服真讓我不敢恭維我買過panasonic除溼機2台和去年剛換日立頂級冷暖變頻分離式冷氣2台panasonic和日立客服真是沒話說問題沒有解決前一直跑我家好幾趟", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "訂購冷氣過程中考慮了很多品牌 有日立阿 三菱重工阿 國際牌阿看大部分大家所選擇是日立冷氣 原先小弟是考慮購買日立的但是跟家人討論後 還是選擇國際牌cs－px40fa2/cu－px40fca2冷氣", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "訂購冷氣過程中考慮了很多品牌 有日立阿 三菱重工阿 國際牌阿看大部分大家所選擇是日立冷氣 原先小弟是考慮購買日立的但是跟家人討論後 還是選擇國際牌cs－px40fa2/cu－px40fca2冷氣", "target": "三菱重工", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "訂購冷氣過程中考慮了很多品牌 有日立阿 三菱重工阿 國際牌阿看大部分大家所選擇是日立冷氣 原先小弟是考慮購買日立的但是跟家人討論後 還是選擇國際牌cs－px40fa2/cu－px40fca2冷氣", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "panasonic 在日本洗衣機產品線規劃的相當完善na－開頭通常都是松下洗衣機的型號開頭當然也有人會容易誤會為吹風機型號", "target": "松下", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "今年在 ces 上亮相的 samsung cube 無風智慧清淨機，成為三星在台首次推出空氣清淨機，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "「故事緣起」因為之前有買過dyson吸塵器，也試用過dyson多項產品，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家是這一台，沒什麼聲音「東龍」東龍牌蒸汽式電動給水開飲機（te－161as）折扣後價格3，528元", "target": "東龍", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "在mobile01看了很多前輩關於洗碗機的評論和建議，剛開始對miele很心動，跟洗衣機一樣網路上也有人幫忙從國外代購，", "target": "miele", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我買過panasonic除溼機2台和去年剛換日立頂級冷暖變頻分離式冷氣2台panasonic和日立客服真是沒話說問題沒有解決前一直跑我家好幾趟直到產品正常運作為止", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "找了當地冷氣師傅來現場看量了室外機支架可放的長寬高他是建議我富士通這種推薦方式與理由我理解也接受師傅說他家都是裝富士通", "target": "富士通", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "但是去富及第的官方網站，只有兩款洗衣機，", "target": "富及第", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元冷氣很多都是請代工而不是自己研發，而且問題確實比較多一點，你如果要買東元還不如買禾聯，在冷氣二線品牌，第一名就是禾聯了，", "target": "東元", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "當初要購買前也是有上國際牌網站做冷氣能力估算網站顯示40級或50級都可", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我自己最有感升級的功能（相較之前三洋來說啦）現在都不需要遠端遙控老公按洗衣機，", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "相同品牌旗下 （不同機型）＝美的集團 自我品牌比較暫不提 \"東芝\"這品系＝換言之 美的集團旗下自我品牌（掛美的品牌機型）洗衣機", "target": "美的", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "相同品牌旗下 （不同機型）＝美的集團 自我品牌比較暫不提 \"東芝\"這品系＝換言之 美的集團旗下自我品牌（掛美的品牌機型）洗衣機", "target": "東芝", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "以家用冷氣來講日本三菱重工海狸系列買的日本人不多代言人是北川景子，而台灣賣的是很舊型洮汰機型。", "target": "三菱重工", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "你真的要再買美泰克的洗衣機，請三思！", "target": "美泰克", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "dyson第一台無線智能吸塵器  （ 自動模式 ）▲ dyson 台灣總代理恆隆行的吸塵器產品經理 anfeny，在投影片裡提到dyson v11無線吸塵器的三個微處理器，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "減少電能消耗基本資訊品牌 博世產品類別 洗衣乾衣機產品型號 wdu285600w", "target": "博世", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "hp06 ＆ tp06唯二有dyson cryptomic™科技的產品※ 此篇文章為參加「dyson pure cool cryptomic™二合一涼風智慧空氣清淨機 tp06」試用活動 ※", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "以我們的客廳與飯廳為長條狀格局，透過飯廳下方的冷氣吹出，再搭配dyson空氣清淨機於兩室中間\"中轉\"，把清風與乾淨空氣往客廳順勢更有效率地帶去，可以快速地達到清新沁涼。", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "生飲淨水器我媽只要大同電鍋常做菜的不會買那些奇奇怪怪的小家電", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "剛好相反，三洋媽媽樂（sw系列）不但是三洋自己生產製造甚至三洋還幫其他家代工過另外冷氣裝了二台三洋變頻冷專2.8精品型用到現在已經六年了", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "但是黴菌跟粉塵 還是會充滿你的渦扇）我家有日立（忘了） 大金（大關） 跟三菱（靜音大師） 我的使用習慣是 關機前 吹個十到十五分鐘送風這會讓你的冷氣幾乎沒味道，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "但是黴菌跟粉塵 還是會充滿你的渦扇）我家有日立（忘了） 大金（大關） 跟三菱（靜音大師） 我的使用習慣是 關機前 吹個十到十五分鐘送風這會讓你的冷氣幾乎沒味道，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "但是黴菌跟粉塵 還是會充滿你的渦扇）我家有日立（忘了） 大金（大關） 跟三菱（靜音大師） 我的使用習慣是 關機前 吹個十到十五分鐘送風這會讓你的冷氣幾乎沒味道，", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "洗冷氣要3－4月洗比較好，做冷氣的沒那麼忙日立原廠有洗冷氣服務嗎是指有賣日立的店家嗎保養沒做好與原廠品質是兩回事", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "這邊會顯示你的所有家電，像我的lg大白空氣清淨機也在裡面，同時可以看見空氣髒污狀況。", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "看來你沒有自己拆過你影片中的三菱拆法跟大金幾忽一樣 （其實冷氣大都是這種拆法）問題在於鼓風扇的葉片 它是u字型的（每一片）", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "恭喜樓主新居就快落成，台灣人裝三菱電機的不多，但其實三菱電機的冷氣真的耐用也好用，普通的冷氣出風口很難清大家都馬隨便灰塵擦一擦而已，久了運轉效率差，", "target": "三菱電機", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "沖完開冷氣吹，運用室外機的熱把機體內多餘水氣排掉我自己家中日立頂級40/28冷專，預計每兩年請原安裝店洗室內機較早裝的40jk運氣好連兩年洗（去年40滿2年洗，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "電機是跟歌林冷氣合作的那家我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣", "target": "歌林", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "電機是跟歌林冷氣合作的那家我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣", "target": "三菱重工", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "電機是跟歌林冷氣合作的那家我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "電機是跟歌林冷氣合作的那家我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣", "target": "冰點", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "實機正面，與側面供大家參考＊圖片取自台灣日立官網一樣同五月天代言的日立日本製滾筒洗衣機ai ×自動洗劑投入功能台灣登場＊產品功能及解說取自台灣日立官網", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "樓主...要退貨拆機不是那麼快的，還要經過主管同意還要流程的這一點你不用擔心整機都退貨了..退貨了看樓主要裝其他品牌冷氣或國際牌冷氣都可以的，如果退貨了還買國際牌又有問題，", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我的剛壞不修了 有空多爬文就知道很多苦主買了這台wdu28560tc － 洗脫烘滾筒洗衣機 － bosch因為不同型號...有點像是手機不斷出新版", "target": "bosch", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "以前還有三菱洗衣機所以國際牌是誰做的？", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "以前還有三菱洗衣機所以國際牌是誰做的？", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "另外有乾燥防霉的效果，但是爬文好壞都有，＃大金－大關系列這台是長輩想問的，那時候去看冷氣請店員推薦跟日立差不多等級的，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "那邊線路看起來施工的不太好照理說分離式冷氣應該不會吵阿我的是三菱電機靜音大師也是63，但是用在3.5坪房間，剛啟動風量自動，", "target": "三菱電機", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "連電風扇都不懂得去買國際牌，正負零這種知名品牌買個中央牌的，不但比較貴，還沒什麼人聽過～", "target": "國際牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "連電風扇都不懂得去買國際牌，正負零這種知名品牌買個中央牌的，不但比較貴，還沒什麼人聽過～", "target": "正負零", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我有個小米萬能遙控器（要回家才能看是哪一版）想要在米家app控制家裡panasonic冷氣（lx系列），但不論是添加遙控器（選松下）還是複製遙控器（選自定義，複製開關鍵，", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "現在有一級省電的都不錯，挑冷氣還是會選一線大品牌維修比較有保障，日立大金國際很多可以選，不過我們家維修的經驗日立的比較好", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "現在有一級省電的都不錯，挑冷氣還是會選一線大品牌維修比較有保障，日立大金國際很多可以選，不過我們家維修的經驗日立的比較好", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "現在有一級省電的都不錯，挑冷氣還是會選一線大品牌維修比較有保障，日立大金國際很多可以選，不過我們家維修的經驗日立的比較好", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "貼牌的買鴻茂，鑫司，te>ssss2503 wrote：請問和成電熱水器好用（恕刪）", "target": "和成", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "5月初就想家中冷氣是窗型式老冷氣，考量省電.安靜及衡溫舒適度，決定換日立分離式冷氣當時是大金跟日立在決擇，但大金零件耗材詢問過認識的水電師傅表示與日立比相對高出許多，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "5月初就想家中冷氣是窗型式老冷氣，考量省電.安靜及衡溫舒適度，決定換日立分離式冷氣當時是大金跟日立在決擇，但大金零件耗材詢問過認識的水電師傅表示與日立比相對高出許多，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "490元」「獨家送dc扇★sampo 聲寶」12公斤 變頻洗脫烘滾筒洗衣機（es－md120dh）「17，900元」", "target": "sampo 聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "它竟用panasonic的壓縮機那我乾脆買panasonic的除濕機就好啦～還買你三菱的幹嘛！！！", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "每牌都會有網軍，我也不喜歡國際牌除濕機的網軍把別人批評得一文不值，只有國際最好最棒這樣，遇到這種我一樣認真找資料回文打臉喔！", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "期待你分享安裝歌林冷氣，我在momo看歌林冷氣省電cspf滿高的又便宜cp值高，但是沒什麼人分享.....禾聯在尋找代工的整合能力很強，", "target": "歌林", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "基本上我只能跟之前惠而浦洗衣機去比較，確實是有洗得比較乾淨，", "target": "惠而浦", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "且酸臭百分比你又有資料幾台內百分比多少有此情況了...說不定你拿到的三菱台灣冷氣賣的台數資料慘不忍睹...難怪也沒案例百分比真的沒有統計數據", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大部分都在討論滾筒（我家人不喜歡烘衣服），而暢銷的p牌跟t牌洗衣機有一些災情，但日立這台洗衣機倒是沒人討論過，超冷門（連大賣場dm 都沒看到過），不過我家愛好日立的牌子，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我也是買這台lg乾衣機，但最近lg的app更新之後，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "只是一般人沒這觀念也沒這方面的技術家裡用過大同除濕機，現役的是 panasonic f－y186bw－b，", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "只是一般人沒這觀念也沒這方面的技術家裡用過大同除濕機，現役的是 panasonic f－y186bw－b，", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "台灣三洋脫離日本三洋後，有變頻＋超音波＋窄機身＋好取式的sw－13dvgs過去三洋洗衣機功能實用但外觀有點老土，賣給媽媽的，lg則烤漆精美但中看不中用，", "target": "日本三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元一樣也有出wifi冷氣只是不知道為甚麼，每次我不管去燦坤還是其他小間冷氣行我說要買東元/歌林/聲寶/大同這類國產冷氣他們都會跟我說缺貨不然就是要等很久", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元一樣也有出wifi冷氣只是不知道為甚麼，每次我不管去燦坤還是其他小間冷氣行我說要買東元/歌林/聲寶/大同這類國產冷氣他們都會跟我說缺貨不然就是要等很久", "target": "歌林", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元一樣也有出wifi冷氣只是不知道為甚麼，每次我不管去燦坤還是其他小間冷氣行我說要買東元/歌林/聲寶/大同這類國產冷氣他們都會跟我說缺貨不然就是要等很久", "target": "聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元一樣也有出wifi冷氣只是不知道為甚麼，每次我不管去燦坤還是其他小間冷氣行我說要買東元/歌林/聲寶/大同這類國產冷氣他們都會跟我說缺貨不然就是要等很久", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我們家的洗衣機是我在決定，以前用過三菱的，後來改用日立的變頻洗衣機，泰國廠的，老婆沒有嫌過有什麼問題。", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "俺是很支持啦，口頭支持啦，若是拿 米家冷氣冰箱來跟 toshiba比，米家電器 好棒棒的話，那 格力，", "target": "toshiba", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "俺是很支持啦，口頭支持啦，若是拿 米家冷氣冰箱來跟 toshiba比，米家電器 好棒棒的話，那 格力，", "target": "格力", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "4. miele抽油煙機、mauviel吊架為了配3個38cm的單口爐，", "target": "miele", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "4. miele抽油煙機、mauviel吊架為了配3個38cm的單口爐，", "target": "mauviel", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "看到樓主 三菱冰箱售後服務這樣讓我最近也想買 有點怯步了本來也是日立跟三菱比較看身邊人很少用三菱 想嘗試看看 結果竟然售後如此差到現在都還沒接到電話喔！", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "看到樓主 三菱冰箱售後服務這樣讓我最近也想買 有點怯步了本來也是日立跟三菱比較看身邊人很少用三菱 想嘗試看看 結果竟然售後如此差到現在都還沒接到電話喔！", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "通常日本人買掃地機，以日本3c量販店都是以i－robot和科沃斯、松下居多，日本人買dyson是會買吸塵器居多，而且都是夠用就好，", "target": "i－robot", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "通常日本人買掃地機，以日本3c量販店都是以i－robot和科沃斯、松下居多，日本人買dyson是會買吸塵器居多，而且都是夠用就好，", "target": "科沃斯", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "通常日本人買掃地機，以日本3c量販店都是以i－robot和科沃斯、松下居多，日本人買dyson是會買吸塵器居多，而且都是夠用就好，", "target": "松下", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "通常日本人買掃地機，以日本3c量販店都是以i－robot和科沃斯、松下居多，日本人買dyson是會買吸塵器居多，而且都是夠用就好，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "之前有爬過文對於全部裝同一個品牌不同機型或是裝不同品牌好像都有，所以上來請教一下大家比較推薦哪款1.日立尊榮系列因為我家的冷氣都是日立的，這幾年用起來沒什麼問題也吹得很爽！", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "房間差不多六年沒開冷氣了日立nb開27，國際k開28。", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "房間差不多六年沒開冷氣了日立nb開27，國際k開28。", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "目前爬了文有災情的有：三菱 日立 聲寶 國際 三星 三洋不知道夏普目前的新型冰箱如何呢家裡目前用了二十年的這台是夏普....（不過剛爬文 現在的夏普已經不是二十年前的夏普）", "target": "夏普", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "另外可以加個循環扇跟什麼機型沒關係我房間的就是裝大金經典，溫度都固定28度 風速也是自動，沒有樓主濕度高問題，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "在台灣賣這樣的價格還算合理…「★獨家送dc扇★midea 美的」4－6坪r32變頻一級冷暖分離式空調（mrh－28g2/msh－28g2） 16，", "target": "midea 美的", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "雖說v11多是在家使用，不會如名牌包或名車在外給人看，但擁有dyson吸塵器，讓來訪的朋友看到，通常都會被稱讚或羨慕眼神，", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "衣服也有股像太陽的味道東元台灣本土品牌但是我準備要丟的這一款是韓國製造採用lg馬達的東元13公斤洗脫烘滾筒洗衣機.當初辦2014年1月是花23000元購買", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "偏偏三洋這一台沒有人有開箱或評價；也不知道為什麼鬼迷心竅，就衝著有人寫三洋的洗衣機都不錯，而且是國產的，就決定買sw－13dvg這台；", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "場地提供：日立冷氣模特兒：黃詩詩", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "當這場dyson吸塵器達人養成班正式開課後，班導師先簡單開場簡單介紹，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "如果尊榮、頂級、旗艦這3個系列的出貨量佔整個日立9成以上的話，那它就能說日立冷氣日製壓縮機佔90％以上......這你就有點不了解", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "能夠辦這樣的養成班讓我們能在專業說明及體驗活動中了解到關於 dyson 吸塵器的正確使用方法及特色應該是沒在怕人家比的就讓我手刀報名來撩下去－－ go ！！！", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "無論身在何處，都可透過手機上的 lg thinq app，遠端一指滑動即可操控 lg twinwash 雙能洗洗衣機及 lg 免曬衣乾衣機。", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "若是現在的 狗屁政府 願意開放 陸資進口，那台灣的啥東元，啥三洋 就會集體去跳樓死光了，現在內地一台1.2～1.3ton冷氣才rmb999，一拖二（台灣叫雙胞胎）rmb1699", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "若是現在的 狗屁政府 願意開放 陸資進口，那台灣的啥東元，啥三洋 就會集體去跳樓死光了，現在內地一台1.2～1.3ton冷氣才rmb999，一拖二（台灣叫雙胞胎）rmb1699", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "cm取自panasonic taiwan youtube話說panasonic 最近找回之前就代言該牌空調，江宏傑福原愛夫妻接續代言，", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "自買三菱這台除濕機遇到\"台灣三菱電機\"糟糕及\"售後不理\"的惡劣售後服務態度後..........從此我已經把\"三菱電機\"家電產品列為\"\"拒絕往來\"\"戶了......！！！！！！", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "dyson eye 360 heurist這台中於要進來台灣了，上回有試用dyson 的檯燈，app 有可以控至檯燈，空氣清淨機在來就是這台了。", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "現在在替年後要入住的新家挑洗衣機，原本想換口味挑了日立sfsd2100a，但沒有尼加拉飛瀑價錢又偏貴，所以又回來看三星。", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "整個毛骨悚然先把總電源關掉，把抽屜拆下，再把喜特麗ih爐的插頭拔掉，這時空氣清淨機數值才開始降低沒錯！！！", "target": "喜特麗", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "是說現在東芝泰製冰箱大多都採用panasonic 製的變頻壓縮機了，近年來變頻保固也改為10年保不喜歡該牌日系 日立，三菱，松下也大多用panasonic 壓縮機（日立，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "6. 三菱的easy clean 輕鬆可以清潔到貫流扇功能我很喜歡，但是目前只有三菱電機有這功能.日立的日規頂級機種有刷子可以自動去刷貫流扇的這個功能也很棒7. 0.5度c溫控調整我家三台冷氣，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "dyson的吸塵器銷售佔比中，無線吸塵器首次超越了有線的吸塵器也因為無線吸塵器市場的不斷成長，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "所以我把去聽2019池上秋收稻穗藝術節表演所安排小旅行，將台中場dyson v11吸塵器達人養成班列為行程之一，來一探究竟。", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "他的保固有到十年～但版上lg冷氣的分享較少，所以無法決定要不要入手後來我們去燦坤時，店員是推薦我們大金和日立他說因為家有新生兒，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "一直都是定頻變頻壓縮機反而先賣給別人用了三菱不知道是不是在測水溫...台規三菱早在2014年就已經推出首台變頻除濕機mj－ev210fj （三級能效）日規三菱直到2019年才在日本上市變頻機", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "三洋的溫控的確沒日立國際的準確所以我三洋是裝在比較能接受溫差的客廳我的冷氣三洋時尚型7.4kw 設定27度冷氣面板顯示到26度沒跳停，外機風扇還在轉3.7a＊220v＝814w/1h", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "這天就安裝電燈、冷氣，附上三菱電機冷氣疊疊樂圖上分別是客廳的gr80、孝親房和主臥的ge35還有客房的ge25。", "target": "三菱電機", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "與冰點相同的致命缺點（貴這麼多不好賣喔），但相比那些賣的便宜卻不誠實標示的台商，東元 冰點更得我心，可惜…我更在意的事，擔心陸版的空調伴侶不能控制東元，", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "也算泛歐洲機種.定價和lg這台幾乎一樣.只是版上還沒看到有人開箱.如果三星有進口熱泵乾衣機，依國外的評價，似乎比lg還要好，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "日立的則是今年才出日立的也有洗劑自動投入，還有ai智慧洗衣功能（國際牌好像沒有）洗衣機有9個感測裝自動判斷洗衣模式，不用花時間選擇還滿方便的", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "lg wr－90tw 熱泵式乾衣機 vs. 林內新款瓦斯型烘乾機（rdt－62－trw）空間： lg（9kg） ） 林內（6.5kg）時間： 林內（40～60mins） ） lg（～90mins）", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "而對應每個高峰，dyson pure cool cryptomic都有啟動一小段時間可見dyson空氣清淨機對no2的清除相當的有效率，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "跟洗衣機一樣，成為每個家庭必須具備的家電產品，這次來試用看看新款的lg掃地機，透過掃地機器人的幫忙，解決滿地狗毛的地板清潔的問題喔！", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "洗衣機的話我會把重點放在洗衣 所以就是日立）國際日立水流強洗得比較乾淨 雖然貴一點但比較優～尤其像是你有大量襯衫和制服風熨斗超好用 推日立！", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "畢竟wifi聯網是目前物聯網趨勢遠端這部分松下跟lg真的有在台耕耘日立除濕機wifi都變標配了說日立除濕機歸日立冷氣管，跟日立家電沒有任何關係。", "target": "日立冷氣", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "畢竟wifi聯網是目前物聯網趨勢遠端這部分松下跟lg真的有在台耕耘日立除濕機wifi都變標配了說日立除濕機歸日立冷氣管，跟日立家電沒有任何關係。", "target": "日立家電", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "所以目前還在想說要不要乾脆直接買一台大概價錢2萬初的變頻冷氣，目前看上的是大金的rhf20rvlt如果是你們會怎麼選擇啊？", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "那你就直接換一台有自體清潔的冷氣就好了啊目前市面上有體清潔就三菱、國際、日立、禾聯", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "2.公司服務人員都只會說過保後電池就要買新的，我看lg網站關於吸塵器電池最新的保固書已變更為2年了，第一批購買的消費者都是白老鼠？", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "家裡想換冰箱的朋友們，一定要考慮這台台灣三洋「sr－c560dvg」，趕緊入手吧！", "target": "台灣三洋", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "你可以問問快啊～～我用的是lg 我也想試試看 如何大風吹是 室外機的風扇 繼電器還是 什麼 計時器 要改裝嗎", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我是希望吸塵器不要額外耗材費也可用七八年預算抓10k上下回去看有線款本來看到日立cvsx820t後來發現這款出五年以上了去看panasonic台灣官網更絕，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我是希望吸塵器不要額外耗材費也可用七八年預算抓10k上下回去看有線款本來看到日立cvsx820t後來發現這款出五年以上了去看panasonic台灣官網更絕，", "target": "panasonic", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我前一陣子去日本逛bic camera，友都八喜買電器順便看日本電器拿的東芝dm東芝水波爐系列有出新款東芝日本新瀉製ih電子鍋東芝氣旋無線吸塵器", "target": "東芝", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "聲寶 ） 禾聯其實家樂福四個品牌都有賣但我家東元蠻穩的至於試用冷氣？！", "target": "禾聯", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "聲寶 ） 禾聯其實家樂福四個品牌都有賣但我家東元蠻穩的至於試用冷氣？！", "target": "東元", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "其他款國際牌多門變頻冰箱似乎也都內建這燈且dm都不放插電照片明顯是避免消費者發現此缺陷，要買國際的人要多考慮。", "target": "國際牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "其他款國際牌多門變頻冰箱似乎也都內建這燈且dm都不放插電照片明顯是避免消費者發現此缺陷，要買國際的人要多考慮。", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "舊家的洗衣機也是買lg的，我們一家才四個人，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "台灣製冷氣大宗應該是國際，日立等請問您有什麼資料或bom表顯示哪個料件是台灣製還是中國製的？", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "台灣製冷氣大宗應該是國際，日立等請問您有什麼資料或bom表顯示哪個料件是台灣製還是中國製的？", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "本產品為一級節能 省荷包第一首選「一機在手 希望無窮」lg不免俗一定會有wifi遠控功能不是一定要遙控器才可以操作冷氣手機也可以直接開啟 多麼方便", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "爬文好幾天本來選lg免曬衣這台但爬文結果 先踢掉永遠不會考慮lg這台了beko好像是blomberg的子公司beko 8公斤熱泵式變頻滾筒乾衣機（dpy8405gxbi）：", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "先前也去日本東京買了sharp空氣清淨機，也在台灣買了三菱25公升的除濕機，每天至少可以除一桶水出來（驚）！", "target": "sharp", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "無黏性膠布外可再多包層有黏性冷氣膠布你的考慮第三是錯的日本三洋倒了被松下收編台灣三洋已和日本母公司已毫無關係更沒有日本的松下技術支援", "target": "松下", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "既然三星認為這冰箱是正常的，那我只好簡短分享個人的購買心得：", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "如果您也在挑選具有烘衣功能的滾筒洗衣機～那真的要把toshiba這款twd－dh120x5g 11公斤旗艦全新機納入口袋名單才行幾乎沒有負評阿... 唯一輸直立洗衣機的！", "target": "toshiba", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "如果家裡有一定的大小或是有小孩建議直接買dyson吧從前每次看irobot吸地板都會看到生氣乾脆拿吸塵器自己吸老實說自己拿吸塵器10～15分鐘大概就可以把家裡吸完", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "這三台我會選日立或大金耶，lg冷氣好像比較少人推", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "這三台我會選日立或大金耶，lg冷氣好像比較少人推", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "這三台我會選日立或大金耶，lg冷氣好像比較少人推", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "他擺明就是業配捧lg可以lg白色家電質感真的很棒但是為了捧一個冷氣算三線的品牌", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "1.淘汰掉沒有烘衣濾網的機種，不然貓毛一定一堆 （三星 wd19n8750kp/tw）2.盡量不要選擇風熨斗的，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "滿方便的我購買的型號是：大關rxv28svlt今年裝了國際牌px冷暖氣機，才發現他有很多貼心的設計就拿防霉乾燥功能來說，", "target": "國際牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "機器上貼紙dd馬達搭載洗衣機機種已賣出1000萬台達成發現東芝日本境內新商品好多，希望台灣代理商能拉近距離引進更多日本境內東芝有販售的水波爐，電扇，洗衣機商品啊！", "target": "東芝", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "此技術在平成26年也榮獲日本市村產業 技術貢獻獎機器上貼紙dd馬達搭載洗衣機機種已賣出1000萬台達成發現東芝日本境內新商品好多，希望台灣代理商能拉近距離引進更多日本境內東芝有販售的水波爐，電扇，", "target": "東芝", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "聲寶 清洗完關機風乾富士通 nocria z 清洗完加熱55度c高溫烘乾除菌最有效應該是富士通它內機風扇 蒸發器都有抗菌防黴處理，", "target": "聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "3、排水管需接到一般排水管，4、r32冷媒需安裝在無連續性火源的空間，剛好最近要買日立冷氣，很實用的一個文章更了解冷氣安裝的注意事項。", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "以前住在家裡的時候母親大人就買了兩台lg的洗衣機分別是滾筒洗衣機 wd－s18vbw和直立式洗衣機wt－sd199hvg", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "最近要買冷氣做了一下功課，發現目前最省電的似乎就是國際牌跟日立（根據cspf值）", "target": "國際牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "最近要買冷氣做了一下功課，發現目前最省電的似乎就是國際牌跟日立（根據cspf值）", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "但是洗衣機部份就不願意引進日本高規，無心經營台灣高端洗衣機市場夏普日本款式的洗脫烘清一色都帶有除菌離子功能夏普洗衣機在台灣市佔率真不高，同等價錢區間還有更多其他牌子不錯的選擇，", "target": "夏普", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我親戚住在陽明山附近電視真的很容易壞耶！入住當時，冷氣則是用了從舊家搬來的國產品（因為功能還算堪用）跟新裝三菱電機，不知道是不是國產年限的關係基板一年不到就黑掉gg了，三菱的則是活得好好。", "target": "三菱電機", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "（3）台灣bosch有提供一次免費到府教學的服務，會教我們操作洗碗機和另一台bosch i－dos洗衣機，", "target": "bosch", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "然而空調方面，目前最好的是富士通z系列（無庸置疑），電機是因為靜音大師gr系列可以自拆自清這點我給滿分（其他系列我都不推薦），同樣都是三菱自家技術對打...重工沒有這種人性化功能，", "target": "富士通", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "然而空調方面，目前最好的是富士通z系列（無庸置疑），電機是因為靜音大師gr系列可以自拆自清這點我給滿分（其他系列我都不推薦），同樣都是三菱自家技術對打...重工沒有這種人性化功能，", "target": "電機", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "然而空調方面，目前最好的是富士通z系列（無庸置疑），電機是因為靜音大師gr系列可以自拆自清這點我給滿分（其他系列我都不推薦），同樣都是三菱自家技術對打...重工沒有這種人性化功能，", "target": "三菱", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "冷氣的溫度也不需開太強了名象家電是台灣老字號的家電品牌，有各式小家電，同時也為知名家電廠商做oem的方式加工，", "target": "名象", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "加上現在比較常在家煮飯 想換容量大的和老婆看了很久的冰箱老婆看上惠而浦的對開雙門冰箱惠而浦是大品牌我覺得ok但不懂為何一定要對開雙門", "target": "惠而浦", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "於是在四月的一個週六的下午，去賣場參觀洗衣機，才意外發現原來三星也有生產洗衣機，（以往都只注意到三星的手機、資訊產品或tv），在網上也是數度爬文，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "看要等多久才修好＠＠令人失望又生氣的美泰克洗衣機品質及售後服務請問大家值得花一萬塊換面板繼續使用美泰克還是買一台新的呢？！", "target": "美泰克", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "好詳細的開箱，之前在百貨公司看到這款 dyson pure hot＋cool™ （hp04） 三合一涼暖空氣清淨機，有被吸引到，", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "有此難得的機會，可以搶先體驗「lg a9 k系列 wifi 濕拖無線吸塵器」，當然立馬報名參加，", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "「獨家送dc扇★sampo 聲寶」12公斤 變頻洗脫烘滾筒洗衣機（es－md120dh）「17，900元」東元在台灣賣滾筒洗脫烘比較久，過去韓國進口，現在大陸進口！", "target": "東元", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "使用時間愈短（家人一直連續洗）愈省電專業研發生產熱水器的怡心工業股份有限公司與德國技術合作推出榮獲多國專利的「怡心牌超光速省電熱水器」強調可省一半電費", "target": "怡心牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "有回銷回日本，泰國的就.......lg－－dd馬達不錯和東芝洗衣機都有用心國x牌就算了，自己查一下，", "target": "東芝", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "有回銷回日本，泰國的就.......lg－－dd馬達不錯和東芝洗衣機都有用心國x牌就算了，自己查一下，", "target": "國x牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "就決定往這個方向走幾天前趁著下班逛了一下百貨公司經過osim的專櫃看到diy按摩椅的廣告覺得很新鮮就進去看了店員說這是他們現在主推的商品", "target": "osim", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "好東西是三菱重工的冷氣三菱電機純日本製頂級款除濕機三菱冰箱可以碰嗎？", "target": "三菱重工", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "好東西是三菱重工的冷氣三菱電機純日本製頂級款除濕機三菱冰箱可以碰嗎？", "target": "三菱電機", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "三菱跟大金整台空調都自己工廠一條龍製造的，跟其他聯合國組裝起來的品牌，", "target": "三菱", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "三菱跟大金整台空調都自己工廠一條龍製造的，跟其他聯合國組裝起來的品牌，", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "泰國製價格約33000入選原因 ：家裡有日立的冷氣跟除濕機，對日立的印象蠻好的二：國際 nr－b589", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "泰國製價格約33000入選原因 ：家裡有日立的冷氣跟除濕機，對日立的印象蠻好的二：國際 nr－b589", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "買冷氣還只買便宜一些的國際牌馬來西亞製，看到人家買大金，好羨慕。", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "另外吸塵器刷頭、機板故障也不少見雖說電池本來就有充電次數的壽命但是a9跟dyson的次數也太少了之前看過一個怨氣很深的a9 user連發數篇文章說a9只用了一年兩個月電池就掛了", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "延伸閱讀dyson故事－－－－－－－－居家清潔強勁智能法寶㊙dyson v11™absolute吸塵器", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "價格少快一萬就是了家庭自用窗型直上日立比較實在冰點冷氣也是不錯的選擇唷！", "target": "冰點", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "太沒道理我最近也在找除濕機，本來在比較國際牌和日立的看來我還是買日立除濕機好了graduate2003大大，", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "太沒道理我最近也在找除濕機，本來在比較國際牌和日立的看來我還是買日立除濕機好了graduate2003大大，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "太沒道理我最近也在找除濕機，本來在比較國際牌和日立的看來我還是買日立除濕機好了graduate2003大大，", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "miele gaggenau", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "富士通", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "bosch", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "廚房電器：miele gaggenau冷氣：日立 富士通其他大概是panasonic 日本制為大宗 （按摩椅 電視 冰箱等）洗衣機和烘衣機 （miele 舊的：bosch）還有三菱日本制（除濕機）", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "但普遍來說不如歐系安靜，特定品牌需選擇有防潮機板機種為宜.洗衣機我有考慮bosch這牌子，可是如過照你說的乾衣挑惠而浦，這樣堆疊起來可行嗎？", "target": "bosch", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大品牌的品質不會差到哪去，售後服務也好今年才剛換了3台日立..我一直覺得售後服務是最重要的，日立冷氣最重要的廣告就是日本製壓縮機及完善的售後服務據點，", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我也是買這台lg乾衣機，但最近lg的app更新之後，我wifi就連不上乾衣機了，有人有同樣情形嗎？", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "以上研判無維修保養的價值，已經訂購一台大金下星期來安裝二樓客廳同期也是聲寶變頻一樣用了16年上個月室內機就開始出現貫流扇馬達吱吱叫的聲音停機用手可以感覺風扇卡卡運轉不順，", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "說真的購買前考慮再三，也擔心他的維修是外包給聲寶的，但心想三星也算大廠，而洗衣機及冰箱的家電，機器4月30日送到並安裝好，", "target": "三星", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "來簡單說明其雙神器的規格lg cordzero™ a9＋濕拖無線吸塵器 lg 打掃雙神器型號：a9psmop2x顏色：鐵灰色馬達技術：智慧變頻馬達", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "千萬不要買禾聯！！！！！！身為苦主我只能好言相勸 不要買禾聯禾聯的品質爛到令人髮指冷氣一開下去像戰車經過一樣吵，而且一直震動", "target": "禾聯", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我也因為這些文章再加上這幾天有人發冰箱與洗衣機災情決定把新家原本要考慮的lg洗脫烘與冰箱刪除了", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "3.電視－－－燦坤官網有台jvc－－－qled－－－畫質不錯5.熱水器－－－momo－－－鴻茂或是hcg都不錯，花牌你查查災情（花錢打廣告）－－－品質真的好嗎？？？？？？？？？", "target": "鴻茂", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "3.電視－－－燦坤官網有台jvc－－－qled－－－畫質不錯5.熱水器－－－momo－－－鴻茂或是hcg都不錯，花牌你查查災情（花錢打廣告）－－－品質真的好嗎？？？？？？？？？", "target": "hcg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "3.電視－－－燦坤官網有台jvc－－－qled－－－畫質不錯5.熱水器－－－momo－－－鴻茂或是hcg都不錯，花牌你查查災情（花錢打廣告）－－－品質真的好嗎？？？？？？？？？", "target": "花牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "目前台灣空調銷量最多的是台灣日立，冰箱賣最多的是國際牌。", "target": "國際牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "相信lg早晚被中國取代，決定給lg澎場）加上聽說有wi－fi 除濕 功能，可當除濕機（剛好一間弄和室孝親房）因此就買了。", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "相信lg早晚被中國取代，決定給lg澎場）加上聽說有wi－fi 除濕 功能，可當除濕機（剛好一間弄和室孝親房）因此就買了。", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "這次使用lg 打掃雙神器，來簡單說明其雙神器的規格lg cordzero™ a9＋濕拖無線吸塵器 lg 打掃雙神器型號：a9psmop2x顏色：鐵灰色", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "國際牌洗衣機我也叫修過一次，已經保外而且最後查出來和洗衣機無關，", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "本來覺得掃地機器人應該打掃效果有限，還不如自己掃＋偶爾用一下吸塵器，直到我男友送了我這台lg掃地機器人我才整個改觀，雖然平時他很常亂買東西，但這次挑得很不錯。", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "看到01舉辦了dyson pure cool cryptomic涼風智慧空氣清淨機的開箱徵文活動，馬上打中我心。", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "為lg家電在2019新推出的濕拖功能的無線吸塵器，可說是lg cordzero™a9無線吸塵器的進化版本，原本就有的「快清式水洗氣旋」特點，", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "大概只有貼牌機可選了（惠而浦/東元/大同/富及第/低階松下...等一堆）相比lg萬年沒什麼改變設計，今年三星洗衣機以國外的拆解來看（拆解機為同系列的10kg純洗脫沒有烘機種），", "target": "惠而浦", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大概只有貼牌機可選了（惠而浦/東元/大同/富及第/低階松下...等一堆）相比lg萬年沒什麼改變設計，今年三星洗衣機以國外的拆解來看（拆解機為同系列的10kg純洗脫沒有烘機種），", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大概只有貼牌機可選了（惠而浦/東元/大同/富及第/低階松下...等一堆）相比lg萬年沒什麼改變設計，今年三星洗衣機以國外的拆解來看（拆解機為同系列的10kg純洗脫沒有烘機種），", "target": "大同", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大概只有貼牌機可選了（惠而浦/東元/大同/富及第/低階松下...等一堆）相比lg萬年沒什麼改變設計，今年三星洗衣機以國外的拆解來看（拆解機為同系列的10kg純洗脫沒有烘機種），", "target": "松下", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "大概只有貼牌機可選了（惠而浦/東元/大同/富及第/低階松下...等一堆）相比lg萬年沒什麼改變設計，今年三星洗衣機以國外的拆解來看（拆解機為同系列的10kg純洗脫沒有烘機種），", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "夏日快到了，趁現在趕快換，一度在日立、國際之間抉擇，剛好認識的人推薦嘉義有口碑的老師傅，專門裝富士通冷氣，", "target": "富士通", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "在買入的第二年就壞過一次面板，那時因為洗衣機還沒改款，不過代理權已被惠而浦收回，當時我是打給新禾，當天下午技師就來電了解情況，", "target": "惠而浦", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "蘋果新聞實測v9p的效果搶先實測v9p 無線吸塵器 最高吸力與dyson v10弱速相當你那台備用dyson v8 6000元誠心向你收購拜託賣我吧，這樣你還可以再買一台全新的v9p", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "近日要購買冷氣，日立也是考慮品牌之一～因為壓縮機品質好～～", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "更多洗衣機的產品資訊，詳見hitachi日立家電官網：", "target": "hitachi日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "還可以申請退貨物稅...洗衣機就別考慮東芝了，買沒多久就開始變超大聲.....維修又貴！", "target": "東芝", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "所以人員調配比較快速有彈性以我每年千台冷氣經驗我上次被三菱弄到打去原廠竟然跟我說沒料原本我以為三菱不錯", "target": "三菱", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "光是能開發出凍結洗淨的功能就值得買了 ，果然日立仍是日後購買冷氣的首選不過挺好奇凍結洗淨排出的髒物是否會因為時間一長造成排水孔的堵塞？", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "lg wd－s105cw是上個世代的末代機種，小編愛曼達年初分享的才是lg最新世代機種：lg intello dd滾筒洗衣機 相較台灣現有lg機種，", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "lg wd－s105cw是上個世代的末代機種，小編愛曼達年初分享的才是lg最新世代機種：lg intello dd滾筒洗衣機 相較台灣現有lg機種，", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "lg wd－s105cw是上個世代的末代機種，小編愛曼達年初分享的才是lg最新世代機種：lg intello dd滾筒洗衣機 相較台灣現有lg機種，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "十分值得信賴的選擇如果要挑選吸塵器，dyson v11目前是最好的一款吸塵產品家中的地板如果有不同的材質，高扭矩吸頭可以幫你做到全面清潔節能模式下，", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "頂多 客廳 會被人看到 其他平時也不會一直看冷氣能拆洗更乾淨的還有 華菱 奇美（貼牌前者 一樣機構保固較長）", "target": "奇美", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "夏普廚電夏普冰箱夏普電視夏普在大展中同樣將自家的大小家電盡數展出，以水波爐為首的全系列廚電、可自動閉門的日製冰箱，", "target": "夏普", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "貢丸1995（開箱） lg a9＋ 濕拖無線吸塵器搭配掃地機器人 吸塵清潔包你滿意最後再幫大家複習lg 打掃雙神器的重點：", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "聲寶目前跟我曰下週維修😔跟樓上一樣看著除濕機對三菱的好感度都沒了", "target": "菱的", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我真的無法相信一台吸塵器的馬達\"轉\"速是用\"時速\"來算...別客氣，我也是dyson粉絲，最近家裡換了v10（原本是v8，不過因為v8拿起來比v10重所以我就換v10）", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "耗電量有差本錢夠粗就買日本日立白熊君冷氣，日立冷氣凍結洗淨實測給你看此篇5樓與9樓有人分享介紹，覺得太麻煩就買奇美快易潔系列，若覺得麻煩就買華菱易拆洗系列，", "target": "日立", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我覺得品牌信譽最重要，在這多變的氣候下日立冷氣給我一個舒適環境，以及良好的售後服務讓我想到冷氣就想到日立", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "然後安靜，無臭味今年就又換了三台三菱電機靜音大師不過我是買 ge 和 hspx50只聽得到冷氣出風的聲音，", "target": "三菱電機", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "之前一直覺得國際牌是一個不錯的品牌第一台除濕機就是用國際牌的，用了10年左右也都沒什麼問題", "target": "國際牌", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "樓主的台規三菱也是一樣其實不只三菱很多國內外品牌除濕機也都是用松下萬寶壓縮機正負零、夏普...還有貴桑桑的瑞士stadler form除濕機也是如此台規日立則是會把壓縮機上標籤貼紙撕掉", "target": "三菱", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "cvcdnmoo wrote：看到這麼多人說奇美風扇不好 ，只能說你運氣很好，但大家的負評就代表著奇美的真實品質水準。", "target": "奇美", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "去全國電子門市人員推薦了兩款冰箱，sampo sr－a25d （250升）lg gn－i235ds （186升）", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "整體來說都很好很有質感，組裝也方便，可以感覺出歌林很用心在製作電扇，唯一的缺點就是遙控器的電池沒什麼電要靠很近才遙控的到，不過買一顆新的之後就可以很遠做遙控控制。", "target": "歌林", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "當初買冷氣也是看到論壇上一堆人在嘴國際牌，後來我是買三菱電機，用到目前都很安靜也沒什麼問題", "target": "國際牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "若你覺得冷藏室像小夜燈一樣黯淡沒問題再考慮國際牌各型機種，我觀國際牌近期各型變頻冰箱都內建此燈且dm上都避免展示插電照片或影片應該都有此設計缺陷還說除我沒人抱怨過這問題，我不相信這種說詞。", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "若你覺得冷藏室像小夜燈一樣黯淡沒問題再考慮國際牌各型機種，我觀國際牌近期各型變頻冰箱都內建此燈且dm上都避免展示插電照片或影片應該都有此設計缺陷還說除我沒人抱怨過這問題，我不相信這種說詞。", "target": "國際牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "因為太多一般 user 不會留意到的細節，dyson 工程師都考慮到了，例如說 dyson 手持吸塵器的重心位置，幾乎就在手把附近，dyson 工程師一定花了不少心血在微調.", "target": "dyson ", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "大滿配要到兩萬多，但是好用實用最重要，我看了其他人試用文後是我會投lg近期家裡要購入吸塵器...lg a9＋ dyson v11", "target": "lg", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "lg各種家電的開箱文實在是有夠多，多到「族繁不及詳載」惹人厭惡的地步但是三菱電機與lg相比較嘛，相較於一百步來說沒有三十步也有二十步冰箱的開箱雖然少見，", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "lg各種家電的開箱文實在是有夠多，多到「族繁不及詳載」惹人厭惡的地步但是三菱電機與lg相比較嘛，相較於一百步來說沒有三十步也有二十步冰箱的開箱雖然少見，", "target": "三菱電機", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "不僅能感受到程式設計的用心之外，大部分的人可能對於三星的清淨機有些陌生，其實三星一直有在從事清淨機的研發與販售，只是過去沒有遍及到台灣罷了，最近趁著居家健康的風潮正盛，", "target": "三星", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "不僅能感受到程式設計的用心之外，大部分的人可能對於三星的清淨機有些陌生，其實三星一直有在從事清淨機的研發與販售，只是過去沒有遍及到台灣罷了，最近趁著居家健康的風潮正盛，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "不長一智之後房子改造翻新的話客廳和孝親房就會換成日立冷氣主寢室的話就會換成禾聯裝大金冷氣的房間就給小朋友住吧", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "不長一智之後房子改造翻新的話客廳和孝親房就會換成日立冷氣主寢室的話就會換成禾聯裝大金冷氣的房間就給小朋友住吧", "target": "禾聯", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "不長一智之後房子改造翻新的話客廳和孝親房就會換成日立冷氣主寢室的話就會換成禾聯裝大金冷氣的房間就給小朋友住吧", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "好清洗而已我家裡原本是用日立去年換了三菱靜音大師後，發覺冷氣最重要的就是要冷，然後安靜，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "後來換新還是選大金目前兩台合起來超過20年都是好好的（客廳的三陽壞了～把房間舊的移到客廳使用）所以貴各兩千還是首選大金不然要吹個冷氣還遇到故障～煩", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我家也於2020/04/28日購入了wd10n64fr2w/tw這台三星的洗脫烘滾筒式洗衣機，說真的購買前考慮再三，也擔心他的維修是外包給聲寶的，但心想三星也算大廠，而洗衣機及冰箱的家電，", "target": "三星", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "所以各位入手三星的朋友，你可千萬要保護好你家的洗衣機或三星產品，維修你可真要氣很長。。。，不然沒被氣死，", "target": "三星", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "如果你自己會買來換，就還好台熱牌 tew萬里晴乾衣機（tcd－7.0rj）－－－－老牌子可以參考，是培林運轉", "target": "台熱牌 tew", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "阿母目前想直上滾筒式洗衣機目前小弟是鎖定師傅推的日立的滾筒 上網看了一下屬意bdsg110cj不只是日製的 大小及預算也差不多符合我們家的需求", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "今年四月時將家裡冷氣換新，家人都選日立，而我因看上panasonic px系列有nanoex 除臭功能（其他型號只有nanoe）就選了這台，", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "dyson v7●挑選dyson吸塵器時最想了解的問題是什麼？", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "1. 耐用又省電的壓縮機2. 冷房能力日立冷氣以下三個重點都蠻重要：1.台灣知名品牌，日立冷氣在台灣連續30年榮獲理想品牌第一名、連續18年獲得最高榮譽白金獎的肯定。", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "4. r32冷媒需安裝在無連續性火源的空間，最喜歡的內容我想要日立rd 12除濕機選我 選我", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "日常萬物都一樣，冷門的東西不要碰...........其實惠而浦的洗衣機狀況是一樣的，電腦版故障率高，而且只有保固一年，", "target": "惠而浦", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "就像信用卡客服也常常出錯一樣所以想說先確認一下有無專業人士知道正確的是怎樣這樣明天一早如需要再打電話給國際牌，比較知道該怎麼去詢問後續要添加事宜冷氣的規格上面看到不必添加冷媒長度為16m", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "是拉～是一家貼牌的冷氣公司拉～所以台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子星等高級商辦都不用日立/大金/富士通/國際牌等日系就只愛貼牌的開利，你好厲害，", "target": "日立", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "是拉～是一家貼牌的冷氣公司拉～所以台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子星等高級商辦都不用日立/大金/富士通/國際牌等日系就只愛貼牌的開利，你好厲害，", "target": "大金", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "是拉～是一家貼牌的冷氣公司拉～所以台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子星等高級商辦都不用日立/大金/富士通/國際牌等日系就只愛貼牌的開利，你好厲害，", "target": "富士通", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "是拉～是一家貼牌的冷氣公司拉～所以台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子星等高級商辦都不用日立/大金/富士通/國際牌等日系就只愛貼牌的開利，你好厲害，", "target": "國際牌", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "是拉～是一家貼牌的冷氣公司拉～所以台北101/日本皇宮/杜拜塔/上海東方明珠/吉隆坡雙子星等高級商辦都不用日立/大金/富士通/國際牌等日系就只愛貼牌的開利，你好厲害，", "target": "開利", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "主機板不是只保固3年 為何現在都改保固7年了.台灣冷氣又不是只有日立國際大金還有很多在做不爽就換別家 現在有cop10 及7年主機板保固 不就是被消費者及工研院逼出來的嗎", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "主機板不是只保固3年 為何現在都改保固7年了.台灣冷氣又不是只有日立國際大金還有很多在做不爽就換別家 現在有cop10 及7年主機板保固 不就是被消費者及工研院逼出來的嗎", "target": "國際", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "主機板不是只保固3年 為何現在都改保固7年了.台灣冷氣又不是只有日立國際大金還有很多在做不爽就換別家 現在有cop10 及7年主機板保固 不就是被消費者及工研院逼出來的嗎", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "冰箱在台灣賣最多，禾聯碩，液晶電視在台灣賣最多！", "target": "禾聯碩", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "自己經驗分享....新安裝真不知道要選啥冷氣：1.1、大金：早期r22大金壞了，換r410首批很穩到現在，也沒聲音。", "target": "大金", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "所以下次買國際吧下次什麼牌子我還沒決定....但...基本上...聲寶蠻失望的....基隆靠海邊，機乎所有各廠牌的冷氣保固只有一年。", "target": "國際", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "所以下次買國際吧下次什麼牌子我還沒決定....但...基本上...聲寶蠻失望的....基隆靠海邊，機乎所有各廠牌的冷氣保固只有一年。", "target": "聲寶", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我只能說用過就回不去了miele的看家本領是洗衣機坦白說比我之前的bosch好不少重點是價格加運費大約只是公司貨的訂價一半多一些而已 （1999鎂加台幣9k運費）之前的bosch", "target": "miele", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我只能說用過就回不去了miele的看家本領是洗衣機坦白說比我之前的bosch好不少重點是價格加運費大約只是公司貨的訂價一半多一些而已 （1999鎂加台幣9k運費）之前的bosch", "target": "bosch", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "心動的同學們快去下訂一台dyson v11唷～～◎本文為參加「dyson v11吸塵器達人養成班」活動紀錄與分享主持人也太......", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "公斤數差異1kg，機體尺寸大同小異洗衣機背部：bosch收線整齊與進水管用料較高，electrolux排水管意外的很長，由下方拉致上方，", "target": "bosch", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我不是日立江森的業務抱歉讓妳失望了我的冷氣是買國際牌的你都沒說清楚我也一篇篇反駁你 ，雖然浪費版面跟時間。", "target": "國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "房間約3.5坪新裝冷氣，大金r32大關系列－rxv/ftxv36svlt－（1.5t）最近大熱天，白天時段，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "至於客房去年裝的兩台旗艦可能比較少吹 沒出什麼事從以前到現在我家換了兩輪冷氣了 也幾乎都是考慮日立的會出現聲寶 國際等牌子 是因為剛好壞了 急用 就先找便宜 有現貨能馬上裝的", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "最近天氣炎熱又到了看冷氣的時候，前幾天有跟冷氣行稍微聊一下，冷氣行說日立大概2019.1月有改款大概就是把渦捲式壓縮機改成雙迴轉式壓縮機，然後型號就變成", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "且也買了兩部前機型應付居住北台灣潮濕的氣候，日立的除濕機真的大推", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "不要看（華菱） 冷氣是台灣製造的，評價很不錯。", "target": "華菱", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "還可以省電敏子已經證實是一個全家裝滿日立冷氣，從2014年至今都在m01講日立好棒棒、其它品牌好臭臭，又曾經幫很多人處理冷氣的不甘被扣帽子廠商，請大家好好觀賞他怎麼各種回文。", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "棉絮和塵蟎收集滿滿，完全不輸dyson吸塵器，超級厲害的（這比喻只有內行人才懂！", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "像我家國際牌冰箱原廠叫修，跑來的是歌林家電的維修師（－現在我不確定一不一樣三星冰箱原廠叫修，跑來的是聲寶家電維修師（－現在好像也是聲寶在服務三星", "target": "聲寶", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "就跑去買speed queen 直立機械式洗衣機（可見我真的被嚇到了），所以報修後也沒在follow 惠而浦何時會來，完全把它給放生. 直到某天想到再去試，居然正常了，", "target": "惠而浦", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "維修站還少到可憐要跑老遠才到得了…心都懶了，當作是花錢買個教訓，這輩子除非老了失智了否則再也不買奇美家電…家裡餐廳跟客廳的國際牌電扇都好用的很，客廳的撐了五年才掛點，", "target": "奇美", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "怕三星他們不清楚有多誇張還自己錄很多影片拿去問三星的客服和維修師父問他們影片裡面的冰箱發出這種嚇死人的聲音是否正常", "target": "三星", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "不過東元沒有21公斤的洗脫烘而且我東元洗脫烘洗衣機用了5年打算再換新的", "target": "東元", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "日立跟大金，家裡有貓跟狗所以客廳的日立開24小時，26度＋循環扇，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "日立跟大金，家裡有貓跟狗所以客廳的日立開24小時，26度＋循環扇，", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "是愛曼達強力推薦的一款吸頭，而隨著dyson v11無線吸塵器推出的高扭矩吸頭，裝上dyson v11使用時，dyson v11電源會改為自動模式，然後隨著偵測到的吸頭與地面間阻力，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元、三洋，我會建議 聲寶 和三洋看你這冷氣淋不到雨卻生銹成這樣？", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元、三洋，我會建議 聲寶 和三洋看你這冷氣淋不到雨卻生銹成這樣？", "target": "三洋", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "東元、三洋，我會建議 聲寶 和三洋看你這冷氣淋不到雨卻生銹成這樣？", "target": "聲寶", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "東元、三洋，我會建議 聲寶 和三洋看你這冷氣淋不到雨卻生銹成這樣？", "target": "三洋", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "沒用過lg的吸塵器，但其他品牌的缺點在lg吸塵器上都有蠻好的表現，我希望能用lg吸塵器高續航力的優點，", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "選擇冰箱時原本曾心動的日立也落敗，沒有再那麼多考量，直接上lg 官網查尺寸，接著找了個熟悉的電商平台，竟然此款心儀的夢幻冰箱也剛好販售中，", "target": "日立", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "日立在江森入主後已經不是以往的日立，日本空調市場競爭激烈，前十好的機型沒一台是日立，被對手遠甩在後，台灣砸這麼多廣告費再賣不好真的別混了", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "日立在江森入主後已經不是以往的日立，日本空調市場競爭激烈，前十好的機型沒一台是日立，被對手遠甩在後，台灣砸這麼多廣告費再賣不好真的別混了", "target": "日立", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "買機械式的轉鈕的 無電子按鈕的 即可基本功能一樣 且機械的還較便宜惠而浦/美泰克 真的不推薦買我的洗衣機1/16報修 1/19檢修之後就待料2/15才完修維修中間還爽約一次 這段時間變成洗衣店vip", "target": "惠而浦", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "買機械式的轉鈕的 無電子按鈕的 即可基本功能一樣 且機械的還較便宜惠而浦/美泰克 真的不推薦買我的洗衣機1/16報修 1/19檢修之後就待料2/15才完修維修中間還爽約一次 這段時間變成洗衣店vip", "target": "美泰克", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我沒想過自己也是新冷氣受災戶尤其這還是panasonic px 頂級旗艦系列之前的糾紛我其實不清楚我純粹信任這個品牌才購買的", "target": "panasonic", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "我沒想過自己也是新冷氣受災戶尤其這還是panasonic px 頂級旗艦系列之前的糾紛我其實不清楚我純粹信任這個品牌才購買的", "target": "panasonic", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我家中還有一太dyson風扇，一拿出來測量的結果是跟17公升的溼度相同剛好我洗衣機有lg的維修人員要來查看狀況，我就一併請他看了看除濕機有什麼問題維修人員也覺得很奇怪怎會差這麼多，", "target": "dyson", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我從來沒想過我又得回頭回覆這篇....前年底裝了panasonic國際牌頂級px冷氣，（國美建設配的室外機）", "target": "panasonic國際牌", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "如果最後真的是潮氣的關係，那我該裝那種品牌的最好呢跟大金真的沒啥關西因為沼氣 在哪 冷氣不會知道所以 現在 日立的銅管有兩側塗裝 應可改善", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "他也是教說 開冷氣前後要先開送風以前老家裝沒什麼牌子的冷氣都沒這個問題大金真得很臭後悔死了 .......我們還一次裝了3台", "target": "大金", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "另一間辦公室冷氣也報銷，但因為是租給別人的想說裝單冷就好（冷暖當然留給自己享用）上網爬文看大金沒有賣單冷，所以就選擇評價也很好的日立變頻分離式冷氣rac－22sk1商品特色：", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元", "target": "三菱重工", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元", "target": "大金", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元", "target": "冰點", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我家附近的全家是三菱重工7－11是大金冷氣慈濟是冰點冷氣台灣大哥大則是用東元", "target": "東元", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "產品品質，台灣濕熱環境對機器來說很嚴苛家裏有3台日立冷氣，都很滿意", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "所以當我們看到日立型號則代表日立滾筒窄版入門款洗脫11公斤的意思最後面的e代表發表登場年份代號 最後日立滾筒清一色都是6公斤烘乾機能其他就不贅述了", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "不過我覺得不必買到cooper，買<panasonic國際牌星光系列 wtdfp3620 220v 冷氣插座）應該就很好用了.確定是否有220v的效率？", "target": "cooper", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "目前禾聯碩液晶電視銷量已是台灣第一大，近期應該在拚「空調」了！", "target": "禾聯碩", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "看到這麼多人說奇美風扇不好 ，忍不住想要回文，我奇美風扇14吋（df－14b0st）的使用了 7－8年全部沒有問題，後來又買奇美16吋的用了兩三年也沒有問題非常好用，", "target": "奇美", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "最近跟lg那台wr－90tw在陷入掙扎因為原本panasonic的洗衣機還沒壞，到底是要先買lg乾衣機還是要直上panasonic洗脫烘，謝謝各位的建議", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "最近跟lg那台wr－90tw在陷入掙扎因為原本panasonic的洗衣機還沒壞，到底是要先買lg乾衣機還是要直上panasonic洗脫烘，謝謝各位的建議", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "其實在入手這台前，我們也為了到底要花多少錢去買吸塵器這事爭論不休他就是dyson派的，dyson真的很棒，但價格我實在過不去", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "呼籲lg taiwan 作為一個想在台灣拓展業務的韓國家電企業，台灣的消費者給了你們機會花了比權威品牌dyson還高的價錢，買了首批a9吸塵器當了白老鼠。", "target": "lg", "aspect_category": "無", "sentiment": "負向"}
+{"sentence": "呼籲lg taiwan 作為一個想在台灣拓展業務的韓國家電企業，台灣的消費者給了你們機會花了比權威品牌dyson還高的價錢，買了首批a9吸塵器當了白老鼠。", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "lg除濕機（背面）lg除濕機（左側）背面右上方配件接口轉開蓋子後的接口", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "家裡大金冷氣使用約11年就壓縮機掛點目前電器行推薦hitachi日立 rac－36sk1三菱重工 dxk35yvst三菱重工好嗎？", "target": "hitachi日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "家裡大金冷氣使用約11年就壓縮機掛點目前電器行推薦hitachi日立 rac－36sk1三菱重工 dxk35yvst三菱重工好嗎？", "target": "三菱重工", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "後來他就請我幫忙詢問之前來家裡幫忙裝潢的設計師設計師就把我們和冷氣師傅拉在一個群組內最後朋友在設計師建議下換了日立冷氣只是好奇詢問一下大家，一般來說大家裝潢時要安裝冷氣是找設計師配合的師傅？", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我之前要換冷氣的時候，也有比較這兩台最後是爸爸決定要買日立我家也是買日立，我覺得售後服務還不錯", "target": "日立", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "冷氣開16度，開窗，最強風吹一小時＿日本網站問三菱電機的回覆＃ixzz6qs64bybt在229樓，", "target": "三菱電機", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "2020七月底請店家新裝三台冷氣其中一台是大金今年剛推出的新大關u八月中旬入厝後才開始使用", "target": "大金", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "panasonic 有出壓縮機版本的暖風機阿不過效率沒有很好就是了", "target": "panasonic", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "打掃時lg a9＋無線吸塵器也能幫你過濾，著實放心多了lg a9＋垃圾傾倒與水洗濾網▼如果lg a9＋吸了不少髒污，要怎麼傾倒垃圾呢？", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "我個人有用＋－0的吸塵器以及電扇家裡老人家說要大同我買大同給他們", "target": "＋－0", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我個人有用＋－0的吸塵器以及電扇家裡老人家說要大同我買大同給他們", "target": "大同", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "我之前是用bosch（洗衣機、烘衣機和洗碗機）後來不滿意才轉用miele你是誰？", "target": "miele", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "工具買買一千內搞定不行再換電容 ，弄壞才去日立維修站買主機板或是換新冷氣賭賭看，沒啥損失 ，", "target": "日立", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "家裡入手第一台dyson 吸塵器，就是dyson dc46 。", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "或任何韓國洗衣機，可以請有買過lg或是買過這款洗衣機的大大說明一下，你們的經驗也是這樣嗎？", "target": "lg", "aspect_category": "無", "sentiment": "中立"}
+{"sentence": "家裡的確需要大台的來清淨一下「dyson pure cool cryptomic™二合一涼風智慧空氣清淨機 tp06」有下列特色，我超想試用！", "target": "dyson", "aspect_category": "無", "sentiment": "正向"}
+{"sentence": "原使用三洋洗衣機.但常洗不乾淨.洗衣機內又有異味.聲音較大.不適合夜間使用.但我家都白天使用我投toshiba一票，直立式的專業還是日系品牌比較強，美製的會比較粗獷沒有設計感，", "target": "toshiba", "aspect_category": "無", "sentiment": "正向"}
